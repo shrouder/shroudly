@@ -1,4 +1,4 @@
 shroudly
 ========
 
-"No-trust" encrypted mobile voice and text messaging
+Encrypted mobile voice and text messaging
